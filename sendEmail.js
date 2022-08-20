@@ -1,6 +1,6 @@
 const sendGrid=require("@sendgrid/mail")
 
-const senGridApiKey='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'
+const senGridApiKey=''
 
 sendGrid.setApiKey(senGridApiKey)
 
